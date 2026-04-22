@@ -8,7 +8,7 @@
   </a>
 </div>
 
-<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , I'm Kenan Gain</h1>
+<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , I'm Bernard Baah</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full-Stack+Developer;Cloud+Engineer;AI+Engineer;YouTuber;Streamer;Editor;" alt="Typing SVG" />
@@ -25,9 +25,9 @@
   <h2>🌐 Connect with Me</h2>
   <p>Discover my work and connect on these platforms!</p>
 
- | Kenan Gain | YouTube | Instagram | LinkedIn | Facebook |
+ | Bernard Baah | YouTube | Instagram | LinkedIn | Facebook |
 | --- | --- | --- | --- | --- |
-| [![Kenan Gain](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Kenan+Gain&size=square)](https://www.kenangain.com/) | [![knightgamer87](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40KnightGamer87&subtitle=@knightgamer87&size=square)](https://www.youtube.com/@KnightGamer87) | [![knightgamer87](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fknightgamer87%2F&subtitle=@knightgamer87&size=square)](https://www.instagram.com/knightgamer87/) | [![Kenan Gain](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@Kenan+Gain&size=square)](https://www.linkedin.com/in/kenan-gain-33048518a/) | [![Kenan Gain](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ffacebook.com%2Fkenan.gain&subtitle=@Kenan+Gain&size=square)](https://facebook.com/kenan.gain) |
+| [![Bernard Baah](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Kenan+Gain&size=square)](https://www.kenangain.com/) | [![knightgamer87](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40KnightGamer87&subtitle=@knightgamer87&size=square)](https://www.youtube.com/@KnightGamer87) | [![knightgamer87](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fknightgamer87%2F&subtitle=@knightgamer87&size=square)](https://www.instagram.com/bnd.baah/) | [![Bernard Baah](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@Kenan+Gain&size=square)](https://www.linkedin.com/in/kenan-gain-33048518a/) | [![Kenan Gain](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ffacebook.com%2Fkenan.gain&subtitle=@Kenan+Gain&size=square)](https://facebook.com/kenan.gain) |
 
 | Twitch | Twitter | Reddit | Discord | GitHub |
 | --- | --- | --- | --- | --- |
@@ -732,11 +732,11 @@ To further strengthen my cloud expertise and advance towards **architect-level a
 
 <div align="center">
   <div align="center">
-    <a href="https://www.instagram.com/knightgamer87/" target="_blank">
+    <a href="https://www.instagram.com/bnd.baah/" target="_blank">
           <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/>
         </a>
     <h3>
-     <a href="https://www.instagram.com/knightgamer87/" target="_blank" style="color: #e4405f; text-decoration: none; font-weight: bold;">
+     <a href="https://www.instagram.com/bnd.baah/" target="_blank" style="color: #e4405f; text-decoration: none; font-weight: bold;">
   Follow Me on Instagram
 </a>
     </h3>
