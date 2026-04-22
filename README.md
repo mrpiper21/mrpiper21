@@ -17,7 +17,7 @@
 
 
 <p align="center">
-  Content Creator | Gamer | Tech Enthusiast
+  Tech Enthusiast
 </p>
 
 <div align="center">
@@ -27,7 +27,7 @@
 
  | Bernard Baah | YouTube | Instagram | LinkedIn | Facebook |
 | --- | --- | --- | --- | --- |
-| [![Bernard Baah](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Bernard+Baah&size=square)](https://www.kenangain.com/) | [![knightgamer87](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40KnightGamer87&subtitle=@knightgamer87&size=square)](https://www.youtube.com/@KnightGamer87) | [![knightgamer87](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fknightgamer87%2F&subtitle=@knightgamer87&size=square)](https://www.instagram.com/bnd.baah/) | [![Bernard Baah](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@Bernard+Baah&size=square)](https://www.linkedin.com/in/kenan-gain-33048518a/) | [![Bernard Baah](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ffacebook.com%2Fkenan.gain&subtitle=@Bernard+Baah&size=square)](https://facebook.com/kenan.gain) |
+| [![Bernard Baah](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Bernard+Baah&size=square)](https://www.kenangain.com/) | [![knightgamer87](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40KnightGamer87&subtitle=@knightgamer87&size=square)](https://www.youtube.com/@KnightGamer87) | [![knightgamer87](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fknightgamer87%2F&subtitle=@knightgamer87&size=square)](https://www.instagram.com/bnd.baah/) | [![Bernard Baah](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@Bernard+Baah&size=square)](https://www.linkedin.com/in/bernard-baah-74b2b8225/) | [![Bernard Baah](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ffacebook.com%2Fkenan.gain&subtitle=@Bernard+Baah&size=square)](https://facebook.com/kenan.gain) |
 
 | Twitter | Reddit | Discord | GitHub |
 | --- | --- | --- | --- |
@@ -447,9 +447,9 @@ To further strengthen my cloud expertise and advance towards **architect-level a
 
 # Videos & Documentries
 
-[![AI Intro](https://github.com/mrpiper21/mrpiper21/blob/main/Gif/AIintromainmain-ezgif.com-video-to-gif-converter.gif)](https://www.linkedin.com/feed/update/urn:li:activity:7290621709374676994/)
+[![AI Intro](https://github.com/mrpiper21/mrpiper21/blob/main/Gif/AIintromainmain-ezgif.com-video-to-gif-converter.gif)](https://www.linkedin.com/in/bernard-baah-74b2b8225/)
       <p>
-        <a href="https://www.linkedin.com/feed/update/urn:li:activity:7290621709374676994/">𝐁𝐞𝐬𝐭 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐒𝐡𝐨𝐰𝐜𝐚𝐬𝐞 𝐨𝐧 𝐋𝐢𝐧𝐤𝐞𝐝𝐈𝐧 EVER...</a>
+        <a href="https://www.linkedin.com/in/bernard-baah-74b2b8225/">𝐁𝐞𝐬𝐭 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐒𝐡𝐨𝐰𝐜𝐚𝐬𝐞 𝐨𝐧 𝐋𝐢𝐧𝐤𝐞𝐝𝐈𝐧 EVER...</a>
       </p>
 
 
