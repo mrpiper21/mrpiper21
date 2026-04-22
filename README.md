@@ -1385,31 +1385,23 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
   <thead>
     <tr>
       <th>Email</th>
-      <th>WhatsApp (Canada)</th>
-      <th>WhatsApp (India)</th>
+      <th>WhatsApp (Ghana)</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center">
-        <a href="mailto:kenangain2910@gmail.com" target="_blank">
+        <a href="mailto:benbaah104@gmail.com" target="_blank">
           <img src="https://img.icons8.com/color/96/000000/gmail--v1.png" alt="Email" style="width: 80px; margin: 10px;">
           <br>
-          kenangain2910@gmail.com
+          benbaah104@gmail.com
         </a>
       </td>
       <td align="center">
-        <a href="https://wa.me/14374364786" target="_blank">
-          <img src="https://img.icons8.com/color/96/000000/whatsapp--v1.png" alt="WhatsApp Canada" style="width: 80px; margin: 10px;">
+        <a href="https://wa.me/233245452066" target="_blank">
+          <img src="https://img.icons8.com/color/96/000000/whatsapp--v1.png" alt="WhatsApp Ghana" style="width: 80px; margin: 10px;">
           <br>
-          +1-437-436-4786
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://wa.me/918200280008" target="_blank">
-          <img src="https://img.icons8.com/color/96/000000/whatsapp--v1.png" alt="WhatsApp India" style="width: 80px; margin: 10px;">
-          <br>
-          +91-820-028-0008
+          +233 24 545 2066
         </a>
       </td>
     </tr>
