@@ -758,7 +758,9 @@ To further strengthen my cloud expertise and advance towards **architect-level a
 
 <h3 align="center">Leetcode Stats</h3>
 <p align="center">
-  <img align="center" src="https://leetcard.jacoblin.cool/kenangain2910?ext=heatmap"/>
+  <a href="https://leetcode.com/u/mrpiper21/">
+    <img align="center" src="https://leetcard.jacoblin.cool/mrpiper21?ext=heatmap"/>
+  </a>
 </p>
 
 <h3 align="center">Steam Profile</h3>
