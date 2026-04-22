@@ -2,13 +2,13 @@
 
 <!-- <div align="center">
   <a href="https://bento.me/kenangain">
-    <img width="100%" src="https://cardivo.vercel.app/api?name=Kenan%20Gain&description=Versatile%20Computer%20Engineer%20and%20Full-Stack%20Developer%20specializing%20in%20Cloud%20Computing,%20AI/ML,%20and%20high-quality%20streaming%20technologies.%20Committed%20to%20leveraging%20advanced%20AI%20solutions%20to%20boost%20productivity%20and%20foster%20creative%20problem-solving.%20Passionate%20about%20pushing%20the%20boundaries%20of%20modern%20technology%20to%20deliver%20exceptional%20results.&image=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Dview%26id%3D1hyV7-KzqCpHLPw5_nzvl6ybEjiMO9OuN&backgroundColor=%23ecf0f1&colorPattern=%23eaeaea&youtube=knightgamer87&instagram=knightgamer87&linkedin=KenanGain&github=KenanGain&twitter=KenanGain" alt="Kenan Gain's Card" />
+    <img width="100%" src="https://cardivo.vercel.app/api?name=Bernard%20Baah&description=Versatile%20Computer%20Engineer%20and%20Full-Stack%20Developer%20specializing%20in%20Cloud%20Computing,%20AI/ML,%20and%20high-quality%20streaming%20technologies.%20Committed%20to%20leveraging%20advanced%20AI%20solutions%20to%20boost%20productivity%20and%20foster%20creative%20problem-solving.%20Passionate%20about%20pushing%20the%20boundaries%20of%20modern%20technology%20to%20deliver%20exceptional%20results.&image=https%3A%2F%2Fdrive.google.com%2Fuc%3Fexport%3Dview%26id%3D1hyV7-KzqCpHLPw5_nzvl6ybEjiMO9OuN&backgroundColor=%23ecf0f1&colorPattern=%23eaeaea&youtube=knightgamer87&instagram=knightgamer87&linkedin=mrpiper21&github=mrpiper21&twitter=mrpiper21" alt="Bernard Baah's Card" />
 
 
   </a>
 </div> -->
 
-<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , I'm Bernard Baah</h1>
+<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/mrpiper21/mrpiper21/blob/main/icons/wave.gif" width="48"></a> , I'm Bernard Baah</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full-Stack+Developer;Cloud+Engineer;AI+Engineer;YouTuber;Streamer;Editor;" alt="Typing SVG" />
@@ -27,11 +27,11 @@
 
  | Bernard Baah | YouTube | Instagram | LinkedIn | Facebook |
 | --- | --- | --- | --- | --- |
-| [![Bernard Baah](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Kenan+Gain&size=square)](https://www.kenangain.com/) | [![knightgamer87](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40KnightGamer87&subtitle=@knightgamer87&size=square)](https://www.youtube.com/@KnightGamer87) | [![knightgamer87](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fknightgamer87%2F&subtitle=@knightgamer87&size=square)](https://www.instagram.com/bnd.baah/) | [![Bernard Baah](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@Kenan+Gain&size=square)](https://www.linkedin.com/in/kenan-gain-33048518a/) | [![Kenan Gain](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ffacebook.com%2Fkenan.gain&subtitle=@Kenan+Gain&size=square)](https://facebook.com/kenan.gain) |
+| [![Bernard Baah](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Bernard+Baah&size=square)](https://www.kenangain.com/) | [![knightgamer87](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40KnightGamer87&subtitle=@knightgamer87&size=square)](https://www.youtube.com/@KnightGamer87) | [![knightgamer87](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fknightgamer87%2F&subtitle=@knightgamer87&size=square)](https://www.instagram.com/bnd.baah/) | [![Bernard Baah](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@Bernard+Baah&size=square)](https://www.linkedin.com/in/kenan-gain-33048518a/) | [![Bernard Baah](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ffacebook.com%2Fkenan.gain&subtitle=@Bernard+Baah&size=square)](https://facebook.com/kenan.gain) |
 
 | Twitch | Twitter | Reddit | Discord | GitHub |
 | --- | --- | --- | --- | --- |
-| [![knightgamer2910](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ftwitch.tv%2Fknightgamer2910&subtitle=@knightgamer2910&size=square)](https://twitch.tv/knightgamer2910) | [![KenanGain](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2Fgain_kenan&subtitle=@KenanGain&size=square)](https://x.com/gain_kenan) | [![Automated_Artistry](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FAutomated_Artistry&subtitle=r/Automated_Artistry&size=square)](https://www.reddit.com/user/Automated_Artistry) | [![Knight Gamer](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2FYdDyV6QqEN&subtitle=Knight+Gamer&size=square)](https://discord.gg/YdDyV6QqEN) | [![Kenan Gain](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FKenanGain&subtitle=%2FKenan+Gain&size=square)](https://github.com/KenanGain) |
+| [![knightgamer2910](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ftwitch.tv%2Fknightgamer2910&subtitle=@knightgamer2910&size=square)](https://twitch.tv/knightgamer2910) | [![mrpiper21](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2Fgain_kenan&subtitle=@mrpiper21&size=square)](https://x.com/gain_kenan) | [![Automated_Artistry](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FAutomated_Artistry&subtitle=r/Automated_Artistry&size=square)](https://www.reddit.com/user/Automated_Artistry) | [![Knight Gamer](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2FYdDyV6QqEN&subtitle=Knight+Gamer&size=square)](https://discord.gg/YdDyV6QqEN) | [![Bernard Baah](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fmrpiper21&subtitle=%2FBernard+Baah&size=square)](https://github.com/mrpiper21) |
 
 
 
@@ -41,7 +41,7 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KenanGain&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
+  <img src="https://komarev.com/ghpvc/?username=mrpiper21&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" width="200" height="35">
 </p>
 
 
@@ -322,67 +322,67 @@ To further strengthen my cloud expertise and advance towards **architect-level a
 
 <div align="center">
  
-  <img src="https://streak-stats.demolab.com/?user=KenanGain&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=mrpiper21&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
   <br>
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=KenanGain&custom_title=Kenan's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrpiper21&custom_title=Kenan's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 <br>
 <div align="center">
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenanGain&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrpiper21&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KenanGain&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrpiper21&theme=highcontrast&hide_border=true" alt="Repos Per Language">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KenanGain&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrpiper21&theme=highcontrast&hide_border=true" alt="Most Commit Language">
     </td>
   </tr>
 </table>
 
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=KenanGain&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Kenan's GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api?username=mrpiper21&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Kenan's GitHub stats">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KenanGain&theme=highcontrast&hide_border=true">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrpiper21&theme=highcontrast&hide_border=true">
 
 ### Top Repositories
 <div align="center">
   <table>
     <tr>
       <td>
-        <a href="https://github.com/KenanGain/fast-gemini-nano">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=fast-gemini-nano&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/mrpiper21/fast-gemini-nano">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrpiper21&repo=fast-gemini-nano&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/KenanGain/Weather-3d-ai-app.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=Weather-3d-ai-app&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/KenanGain/moviedjangoai">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=moviedjangoai&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/KenanGain/speech-to-text.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=speech-to-text&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/mrpiper21/Weather-3d-ai-app.git">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrpiper21&repo=Weather-3d-ai-app&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/KenanGain/SmolLM">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=SmolLM&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/mrpiper21/moviedjangoai">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrpiper21&repo=moviedjangoai&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/KenanGain/Llama-3.2_running_locally">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=KenanGain&repo=Llama-3.2_running_locally&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/mrpiper21/speech-to-text.git">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrpiper21&repo=speech-to-text&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/mrpiper21/SmolLM">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrpiper21&repo=SmolLM&theme=highcontrast&hide_border=true&border_radius=15" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/mrpiper21/Llama-3.2_running_locally">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mrpiper21&repo=Llama-3.2_running_locally&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
@@ -392,8 +392,8 @@ To further strengthen my cloud expertise and advance towards **architect-level a
 
 
 ### GitHub Contribution Chart
-<a href="https://github.com/KenanGain">
-    <img src="https://ghchart.rshah.org/KenanGain" alt="KenanGain's GitHub Contribution Chart">
+<a href="https://github.com/mrpiper21">
+    <img src="https://ghchart.rshah.org/mrpiper21" alt="mrpiper21's GitHub Contribution Chart">
 </a>
 
 
@@ -403,9 +403,9 @@ To further strengthen my cloud expertise and advance towards **architect-level a
   </summary>
   
   <a href="https://gitroll.io/profile/uQ8UJvo11fpOJ2YyqqUcaqFjkNqp1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uQ8UJvo11fpOJ2YyqqUcaqFjkNqp1?theme=darkEmerald" alt="GitRoll Profile Badge"/></a>
-  <img src="https://myreadme.vercel.app/api/embed/KenanGain?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="KenanGain's GitHub Stats">
-      <img src="https://github-readme-bento.vercel.app/stats/KenanGain?theme=dark" alt="KenanGain's GitHub Stats">
-      <img src="https://stats.dooboo.io/api/github-stats-advanced?login=KenanGain" alt="Advanced GitHub Stats for KenanGain" width="400">
+  <img src="https://myreadme.vercel.app/api/embed/mrpiper21?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="mrpiper21's GitHub Stats">
+      <img src="https://github-readme-bento.vercel.app/stats/mrpiper21?theme=dark" alt="mrpiper21's GitHub Stats">
+      <img src="https://stats.dooboo.io/api/github-stats-advanced?login=mrpiper21" alt="Advanced GitHub Stats for mrpiper21" width="400">
 
 
 </details>
@@ -413,19 +413,19 @@ To further strengthen my cloud expertise and advance towards **architect-level a
 
 <br>
 
-### KenanGain/README.md activity
+### mrpiper21/README.md activity
 <img width="100%" src="https://repobeats.axiom.co/api/embed/48c98af9cae40b4ae2cf354a0f544a52eb743a9f.svg" alt="Repobeats analytics" title="Repobeats analytics image" />
 
-[![Forkers repo roster for @KenanGain/KenanGain](https://reporoster.com/forks/dark/KenanGain/KenanGain)](https://github.com/KenanGain/KenanGain/network/members)
+[![Forkers repo roster for @mrpiper21/mrpiper21](https://reporoster.com/forks/dark/mrpiper21/mrpiper21)](https://github.com/mrpiper21/mrpiper21/network/members)
 
-[![Repography](https://reporoster.com/stars/dark/KenanGain/KenanGain)](https://github.com/KenanGain/KenanGain)
+[![Repography](https://reporoster.com/stars/dark/mrpiper21/mrpiper21)](https://github.com/mrpiper21/mrpiper21)
 
 <details>
-  <summary><img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;GitHub Star History for KenanGain&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /></summary>
+  <summary><img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;GitHub Star History for mrpiper21&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /></summary>
 
   <h2>Star History Chart</h2>
-  <a href="https://star-history.com/#KenanGain/KenanGain&Date">
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=KenanGain/KenanGain&type=Date&theme=dark" />
+  <a href="https://star-history.com/#mrpiper21/mrpiper21&Date">
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=mrpiper21/mrpiper21&type=Date&theme=dark" />
   </a>
 
 </details>
@@ -435,8 +435,8 @@ To further strengthen my cloud expertise and advance towards **architect-level a
 <details>
   <summary style="font-size: 1.17em; font-weight: bold;">🏆 GitHub Profile Trophy</summary>
   <br>
-    <img src="https://github-profile-trophy.vercel.app/?username=KenanGain&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Profile Trophy">
-  <img src="https://stats.dooboo.io/api/github-trophies?login=KenanGain" alt="GitHub Trophies for KenanGain">
+    <img src="https://github-profile-trophy.vercel.app/?username=mrpiper21&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Profile Trophy">
+  <img src="https://stats.dooboo.io/api/github-trophies?login=mrpiper21" alt="GitHub Trophies for mrpiper21">
 </details>
 
 
@@ -447,7 +447,7 @@ To further strengthen my cloud expertise and advance towards **architect-level a
 
 # Videos & Documentries
 
-[![AI Intro](https://github.com/KenanGain/KenanGain/blob/main/Gif/AIintromainmain-ezgif.com-video-to-gif-converter.gif)](https://www.linkedin.com/feed/update/urn:li:activity:7290621709374676994/)
+[![AI Intro](https://github.com/mrpiper21/mrpiper21/blob/main/Gif/AIintromainmain-ezgif.com-video-to-gif-converter.gif)](https://www.linkedin.com/feed/update/urn:li:activity:7290621709374676994/)
       <p>
         <a href="https://www.linkedin.com/feed/update/urn:li:activity:7290621709374676994/">𝐁𝐞𝐬𝐭 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐒𝐡𝐨𝐰𝐜𝐚𝐬𝐞 𝐨𝐧 𝐋𝐢𝐧𝐤𝐞𝐝𝐈𝐧 EVER...</a>
       </p>
@@ -592,14 +592,14 @@ To further strengthen my cloud expertise and advance towards **architect-level a
 
 ## EdgeSurf: Just a searchengine
 
-<a href="https://github.com/KenanGain/edgesurf-searchengine">View Repository</a>
+<a href="https://github.com/mrpiper21/edgesurf-searchengine">View Repository</a>
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDA5cGp5bWtmMG5mZnIzOXJobGl5MHZ2d2RqN3p4dHljaDFnamk1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlRnAWXxn0MhKLK/giphy.gif" width="150" alt="Search Animation" />
 </div>
 <table>
   <tr>
-   <a href="https://github.com/KenanGain/edgesurf-searchengine">
-        <img src="https://github.com/KenanGain/edgesurf-searchengine/blob/main/screenshots/search_demo.webp" width="100%" alt="EdgeSurf Home Interface">
+   <a href="https://github.com/mrpiper21/edgesurf-searchengine">
+        <img src="https://github.com/mrpiper21/edgesurf-searchengine/blob/main/screenshots/search_demo.webp" width="100%" alt="EdgeSurf Home Interface">
       </a>
   </tr>
   <tr>
@@ -639,7 +639,7 @@ To further strengthen my cloud expertise and advance towards **architect-level a
 
 # Coming soon
 
- <img  width="25%" src="https://github.com/KenanGain/KenanGain/blob/main/Gif/iron-man-tony-stark.gif" alt="Work in progress"/>
+ <img  width="25%" src="https://github.com/mrpiper21/mrpiper21/blob/main/Gif/iron-man-tony-stark.gif" alt="Work in progress"/>
 
 <h2>🚀 Super GPT: The AI Overachiever You Didn’t Know You Needed</h2>
 
@@ -658,21 +658,21 @@ To further strengthen my cloud expertise and advance towards **architect-level a
 <table>
   <tr>
     <td align="center" width="300" height="200">
-      <img src="https://github.com/KenanGain/KenanGain/blob/main/projectimg/saraai.gif"  alt="Sara AI"/>
+      <img src="https://github.com/mrpiper21/mrpiper21/blob/main/projectimg/saraai.gif"  alt="Sara AI"/>
       <br>
       <strong>Sara AI for Canadian Tire</strong>
       <br>
       AI-enhanced shopping experience
     </td>
     <td align="center" width="300" height="200">
-      <img src="https://github.com/KenanGain/KenanGain/blob/main/projectimg/weatheraiapp3.gif"  alt="Weather 3D AI App"/>
+      <img src="https://github.com/mrpiper21/mrpiper21/blob/main/projectimg/weatheraiapp3.gif"  alt="Weather 3D AI App"/>
       <br>
       <strong>Weather-3D-AI App</strong>
       <br>
       Modern design with shadcn UI, AI integration, Wikipedia, and local news widgets
     </td>
     <td align="center" width="300" height="200">
-      <img src="https://github.com/KenanGain/KenanGain/blob/main/projectimg/gemininano.gif" alt="Fast Gemini Nano"/>
+      <img src="https://github.com/mrpiper21/mrpiper21/blob/main/projectimg/gemininano.gif" alt="Fast Gemini Nano"/>
       <br>
       <strong>Fast-Gemini-Nano</strong>
       <br>
@@ -681,21 +681,21 @@ To further strengthen my cloud expertise and advance towards **architect-level a
   </tr>
   <tr>
     <td align="center" width="300" height="200">
-      <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/falling-down-hiro-hamada.gif"  alt="AI Content Creation"/>
+      <img src="https://github.com/mrpiper21/mrpiper21/blob/main/Gif/falling-down-hiro-hamada.gif"  alt="AI Content Creation"/>
       <br>
       <strong>AI-Powered Content Creation</strong>
       <br>
       Automated content generation using various LLMs
     </td>
     <td align="center" width="300" height="200">
-      <img src="https://github.com/KenanGain/KenanGain/blob/main/projectimg/maplelawai.png"  alt="MapleLaw AI"/>
+      <img src="https://github.com/mrpiper21/mrpiper21/blob/main/projectimg/maplelawai.png"  alt="MapleLaw AI"/>
       <br>
       <strong>MapleLaw AI</strong>
       <br>
       Legal information assistant for Canadian citizens
     </td>
     <td align="center" width="300" height="200">
-      <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/pcbuild.gif"  alt="4K60 Streaming"/>
+      <img src="https://github.com/mrpiper21/mrpiper21/blob/main/Gif/pcbuild.gif"  alt="4K60 Streaming"/>
       <br>
       <strong>4K60 Streaming Setup</strong>
       <br>
@@ -704,14 +704,14 @@ To further strengthen my cloud expertise and advance towards **architect-level a
   </tr>
   <tr>
     <td align="center" width="300" height="200">
-      <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/k8s-kubernetes.gif" width="300" alt="Cloud-Native Web Apps"/>
+      <img src="https://github.com/mrpiper21/mrpiper21/blob/main/Gif/k8s-kubernetes.gif" width="300" alt="Cloud-Native Web Apps"/>
       <br>
       <strong>Cloud-Native Web Apps</strong>
       <br>
       Next.js, React, Django with Docker & Kubernetes
     </td>
     <td align="center" width="300" height="200">
-      <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/billiondollars.gif" alt="Your Next Project?"/>
+      <img src="https://github.com/mrpiper21/mrpiper21/blob/main/Gif/billiondollars.gif" alt="Your Next Project?"/>
       <br>
       <strong>Next Project?</strong>
       <br>
@@ -726,7 +726,7 @@ To further strengthen my cloud expertise and advance towards **architect-level a
 
 <div align="center">
   <h2 align="center" style="display: inline-flex; align-items: baseline;">
-    Socials Stats <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/connect.gif" height="30" style="margin-left: 5px;" />
+    Socials Stats <img src="https://github.com/mrpiper21/mrpiper21/blob/main/icons/connect.gif" height="30" style="margin-left: 5px;" />
   </h2>
 </div>
 
@@ -825,7 +825,7 @@ To further strengthen my cloud expertise and advance towards **architect-level a
   <tr>
     <!-- Dev Profile -->
     <td align="center">
-     <a href="https://app.daily.dev/kenangain"><img src="https://api.daily.dev/devcards/v2/2I8I8M5jrm9jGyAV4crFo.png?type=default&r=gnk" width="356" alt="Kenan Gain's Dev Card"/></a>
+     <a href="https://app.daily.dev/kenangain"><img src="https://api.daily.dev/devcards/v2/2I8I8M5jrm9jGyAV4crFo.png?type=default&r=gnk" width="356" alt="Bernard Baah's Dev Card"/></a>
     </td>
     <!-- roadmap.sh Profile -->
     <td align="center">
@@ -836,7 +836,7 @@ To further strengthen my cloud expertise and advance towards **architect-level a
 
 <h3 align="center">Stardev.io</h3>
 
-<a href="https://stardev.io/developers/KenanGain"><img alt="Check out KenanGain&apos;s profile on stardev.io" src="https://stardev.io/developers/KenanGain/badge/languages/global.svg" /></a>
+<a href="https://stardev.io/developers/mrpiper21"><img alt="Check out mrpiper21&apos;s profile on stardev.io" src="https://stardev.io/developers/mrpiper21/badge/languages/global.svg" /></a>
 
 
 <h3 align="center">Stack overflow</h3>
@@ -848,11 +848,11 @@ To further strengthen my cloud expertise and advance towards **architect-level a
   <tr>
     <td>
       <a href="https://stackoverflow.com/users/21519409/kenan-gain">
-        <img src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=21519409" alt="Stack Overflow Card for KenanGain">
+        <img src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=21519409" alt="Stack Overflow Card for mrpiper21">
       </a>
     </td>
     <td>
-      <img src="https://github-stackoverflow-readme.vercel.app/?userId=21519409" alt="Stack Overflow Stats for KenanGain">
+      <img src="https://github-stackoverflow-readme.vercel.app/?userId=21519409" alt="Stack Overflow Stats for mrpiper21">
     </td>
   </tr>
 </table>
@@ -1074,7 +1074,7 @@ To further strengthen my cloud expertise and advance towards **architect-level a
       </td>
       <td align="center" style="border: none;">
 <!--         <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="TensorFlow" width="50" height="50"/> -->
-        <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Tensorflow.gif" alt="TensorFlow" width="80" height="70" /><br>TensorFlow
+        <img src="https://github.com/mrpiper21/mrpiper21/blob/main/icons/Tensorflow.gif" alt="TensorFlow" width="80" height="70" /><br>TensorFlow
       </td>
       <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="50" height="50"/><br>PyTorch
@@ -1126,7 +1126,7 @@ To further strengthen my cloud expertise and advance towards **architect-level a
       </td>
       <td align="center" style="border: none;">
 <!--         <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" width="50" height="50" alt="Google Gemini"/> -->
-        <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Gemini.gif" alt="Gemini" width="80" height="80" /><br>Google Gemini
+        <img src="https://github.com/mrpiper21/mrpiper21/blob/main/icons/Gemini.gif" alt="Gemini" width="80" height="80" /><br>Google Gemini
       </td>
       <td align="center" style="border: none;">
         <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50" alt="Hugging Face"/><br>Hugging Face
@@ -1264,18 +1264,18 @@ To further strengthen my cloud expertise and advance towards **architect-level a
     </tr>
     <tr>
       <td>
-        <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/docker-pull-ubuntu.gif" />
+        <img src="https://github.com/mrpiper21/mrpiper21/blob/main/Gif/docker-pull-ubuntu.gif" />
       </td>
       <td>
-        <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/linus-tech.gif" />
+        <img src="https://github.com/mrpiper21/mrpiper21/blob/main/Gif/linus-tech.gif" />
       </td>
     </tr>
     <tr>
       <td>
-        <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/feature-tree.gif" />
+        <img src="https://github.com/mrpiper21/mrpiper21/blob/main/Gif/feature-tree.gif" />
       </td>
       <td>
-        <img src="https://github.com/KenanGain/KenanGain/blob/main/Gif/do-not-run-python-python-computer.gif" />
+        <img src="https://github.com/mrpiper21/mrpiper21/blob/main/Gif/do-not-run-python-python-computer.gif" />
       </td>
     </tr>
   </table>
@@ -1363,10 +1363,10 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
     </tr>
     <tr>
       <td align="center">
-        <img src="https://github.com/KenanGain/KenanGain/assets/123521687/72e4f7a9-a7fd-45d6-b582-ca4c8a1f2a36" alt="Buy Me a Coffee QR Code" width="150" height="150">
+        <img src="https://github.com/mrpiper21/mrpiper21/assets/123521687/72e4f7a9-a7fd-45d6-b582-ca4c8a1f2a36" alt="Buy Me a Coffee QR Code" width="150" height="150">
       </td>
       <td align="center">
-       <img src="https://github.com/KenanGain/KenanGain/assets/123521687/0a08e987-d7f8-48bd-a5a4-2c991190f9af" alt="PayPal QR Code" width="150" height="150">
+       <img src="https://github.com/mrpiper21/mrpiper21/assets/123521687/0a08e987-d7f8-48bd-a5a4-2c991190f9af" alt="PayPal QR Code" width="150" height="150">
       </td>
       <td align="center">
         <img src="https://github.com/user-attachments/assets/f7f4fefb-1a07-4390-b2ea-a4b40d4f19f6" alt="Stripe QR Code" width="150" height="150">
@@ -1421,7 +1421,7 @@ Explore my meticulously curated Spotify playlist, composed entirely of exception
 <h3>
 <div align="center">
   
-⭐️ From [KenanGain](https://github.com/KenanGain) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
+⭐️ From [mrpiper21](https://github.com/mrpiper21) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
 
 
 </div>
