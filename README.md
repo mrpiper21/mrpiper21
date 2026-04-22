@@ -788,7 +788,7 @@ To further strengthen my cloud expertise and advance towards **architect-level a
     </td>
     <!-- roadmap.sh Profile -->
     <td align="center">
-      <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66832f0ad270cc49a6b89a26?variant=dark" alt="roadmap.sh"/></a>   
+      <a href="https://roadmap.sh"><img src="https://img.shields.io/badge/roadmap.sh-Bernard%20Baah-000000?style=for-the-badge&logo=roadmap.sh&logoColor=white" alt="Bernard Baah on roadmap.sh"/></a>   
     </td>
   </tr>
 </table>
