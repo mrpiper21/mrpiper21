@@ -770,12 +770,6 @@ To further strengthen my cloud expertise and advance towards **architect-level a
   </a>
 </p>
 
-<h3 align="center">Latest Dev.to</h3>
-
-![Latest Dev.to](https://latest-devto-post.vercel.app/api?username=kenangain)
-
-<br/>
-
 <table>
   <tr>
     <!-- Dev Profile Header -->
@@ -790,7 +784,7 @@ To further strengthen my cloud expertise and advance towards **architect-level a
   <tr>
     <!-- Dev Profile -->
     <td align="center">
-     <a href="https://app.daily.dev/bernardbaah"><img src="https://api.daily.dev/devcards/v2/2I8I8M5jrm9jGyAV4crFo.png?type=default&r=gnk" width="356" alt="Bernard Baah's Dev Card"/></a>
+     <a href="https://app.daily.dev/bernardbaah"><img src="https://api.daily.dev/devcards/v2/XstV8R3am7ZwpkxjBoHOH.png?type=default&r=gnk" width="356" alt="Bernard Baah's Dev Card"/></a>
     </td>
     <!-- roadmap.sh Profile -->
     <td align="center">
