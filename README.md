@@ -29,9 +29,9 @@
 | --- | --- | --- | --- | --- |
 | [![Bernard Baah](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Bernard+Baah&size=square)](https://www.kenangain.com/) | [![knightgamer87](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40KnightGamer87&subtitle=@knightgamer87&size=square)](https://www.youtube.com/@KnightGamer87) | [![knightgamer87](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fknightgamer87%2F&subtitle=@knightgamer87&size=square)](https://www.instagram.com/bnd.baah/) | [![Bernard Baah](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@Bernard+Baah&size=square)](https://www.linkedin.com/in/bernard-baah-74b2b8225/) | [![Bernard Baah](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ffacebook.com%2Fkenan.gain&subtitle=@Bernard+Baah&size=square)](https://facebook.com/kenan.gain) |
 
-| Twitter | Reddit | Discord | GitHub |
-| --- | --- | --- | --- |
-| [![mrpiper21](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2Fgain_kenan&subtitle=@mrpiper21&size=square)](https://x.com/Benadpiper) | [![Automated_Artistry](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FAutomated_Artistry&subtitle=r/Automated_Artistry&size=square)](https://www.reddit.com/user/Automated_Artistry) | [![Knight Gamer](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fdiscord.gg%2FYdDyV6QqEN&subtitle=Knight+Gamer&size=square)](https://discord.gg/YdDyV6QqEN) | [![Bernard Baah](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fmrpiper21&subtitle=%2FBernard+Baah&size=square)](https://github.com/mrpiper21) |
+| Twitter | GitHub |
+| --- | --- |
+| [![mrpiper21](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fx.com%2Fgain_kenan&subtitle=@mrpiper21&size=square)](https://x.com/Benadpiper) | [![Bernard Baah](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Fmrpiper21&subtitle=%2FBernard+Baah&size=square)](https://github.com/mrpiper21) |
 
 
 
@@ -754,40 +754,6 @@ To further strengthen my cloud expertise and advance towards **architect-level a
   
 </div>
 <div align="center">
-
-
-<div align="center">
-
-<div align="center">
-<img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord Logo"/>
-</div>
-  <h3>
-    <a href="https://discord.gg/YdDyV6QqEN">
-      Join Our Discord Community
-    </a>
-  </h3>
-
-</div>
-<table>
-  <tr>
-    <!-- Discord Widget Column -->
-    <td align="center" style="border: none;">
-      <a href="https://discord.gg/YdDyV6QqEN">
-        <img src="https://invidget.switchblade.xyz/YdDyV6QqEN" alt="Discord Widget">
-      </a>
-    </td>
-    <!-- Discord Banner Column -->
-    <td align="center" style="border: none;">
-      <img src="https://discord.com/api/guilds/532904444912861194/widget.png?style=banner3" alt="Discord Banner 3"/>
-    </td>
-    <!-- Discord Presence Column -->
-    <td align="center" style="border: none;">
-      <a href="https://discord.com/users/424279823817375746">
-        <img src="https://lanyard.cnrad.dev/api/424279823817375746" alt="Discord Presence">
-      </a>
-    </td>
-  </tr>
-</table>
 
 
 <h3 align="center">YouTube Stats</h3>
