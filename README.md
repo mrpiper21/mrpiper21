@@ -27,7 +27,7 @@
 
  | Bernard Baah | Instagram | LinkedIn | Facebook |
 | --- | --- | --- | --- |
-| [![Bernard Baah](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Bernard+Baah&size=square)](https://www.kenangain.com/) | [![knightgamer87](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fknightgamer87%2F&subtitle=@knightgamer87&size=square)](https://www.instagram.com/bnd.baah/) | [![Bernard Baah](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@Bernard+Baah&size=square)](https://www.linkedin.com/in/bernard-baah-74b2b8225/) | [![Bernard Baah](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Ffacebook.com%2Fkenan.gain&subtitle=@Bernard+Baah&size=square)](https://facebook.com/kenan.gain) |
+| [![Bernard Baah](https://bentos.jkominovic.dev/api/v1/generic-card?icon=sireaddotcv&subtitle=Bernard+Baah&size=square)](https://www.kenangain.com/) | [![knightgamer87](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fknightgamer87%2F&subtitle=@knightgamer87&size=square)](https://www.instagram.com/bnd.baah/) | [![Bernard Baah](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkenan-gain-33048518a%2F&subtitle=@Bernard+Baah&size=square)](https://www.linkedin.com/in/bernard-baah-74b2b8225/) | [![Bernard Baah](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F18sxJpJEzj%2F&subtitle=@Bernard+Baah&size=square)](https://www.facebook.com/share/18sxJpJEzj/?mibextid=wwXIfr) |
 
 | Twitter | GitHub |
 | --- | --- |
