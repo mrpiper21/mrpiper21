@@ -790,7 +790,7 @@ To further strengthen my cloud expertise and advance towards **architect-level a
   <tr>
     <!-- Dev Profile -->
     <td align="center">
-     <a href="https://app.daily.dev/kenangain"><img src="https://api.daily.dev/devcards/v2/2I8I8M5jrm9jGyAV4crFo.png?type=default&r=gnk" width="356" alt="Bernard Baah's Dev Card"/></a>
+     <a href="https://app.daily.dev/bernardbaah"><img src="https://api.daily.dev/devcards/v2/2I8I8M5jrm9jGyAV4crFo.png?type=default&r=gnk" width="356" alt="Bernard Baah's Dev Card"/></a>
     </td>
     <!-- roadmap.sh Profile -->
     <td align="center">
@@ -812,12 +812,12 @@ To further strengthen my cloud expertise and advance towards **architect-level a
   </tr>
   <tr>
     <td>
-      <a href="https://stackoverflow.com/users/21519409/kenan-gain">
-        <img src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=21519409" alt="Stack Overflow Card for mrpiper21">
+      <a href="https://stackoverflow.com/users/21220598/piper">
+        <img src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=21220598" alt="Stack Overflow Card for piper">
       </a>
     </td>
     <td>
-      <img src="https://github-stackoverflow-readme.vercel.app/?userId=21519409" alt="Stack Overflow Stats for mrpiper21">
+      <img src="https://github-stackoverflow-readme.vercel.app/?userId=21220598" alt="Stack Overflow Stats for piper">
     </td>
   </tr>
 </table>
